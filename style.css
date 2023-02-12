@@ -30,7 +30,7 @@ header
 {
     position: fixed;
     top: 0; left: 0; right: 0;
-    background: url(./black-smooth-textured-paper-background.jpg);
+    background: #000000;
     padding: 1rem 7%;
     display: flex;
     align-items: center;
@@ -135,7 +135,7 @@ section{
    display: flex;
    justify-content: space-between;
    align-items: center;
-   background-image: url(./black-smooth-textured-paper-background.jpg);
+   background: #000000;
 }
 
 
@@ -368,7 +368,7 @@ padding-right: 10px;
 /* OurTeam */
 
 #Team{
-   background-image: url(./yellow.jpg);
+   background: #e2b129;
 }
 .containers {
   color: white;
@@ -702,7 +702,7 @@ img{
 /*** Contact Section***/
 #contact
 {
-  background-image: url(./black-smooth-textured-paper-background.jpg);
+  background: #000000;
 }
 #contact .contact
 {
