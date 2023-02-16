@@ -98,9 +98,9 @@ header .icons #menu-bars
     overflow-x: hidden;
   }
   header .icons #menu-bars{
-    position: absolute;
+    position: relative;
     display: inline-block;
-    margin-left: -30%; 
+    
  }
 
  header .navbar{
